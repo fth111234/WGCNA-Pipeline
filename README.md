@@ -53,9 +53,9 @@ Gene_001    10.5      15.2       8.7
 Gene_002    25.1      18.4      22.9
 Trait Data Format (biaoxing.txt)
 text
-SampleID    Tissue    Treatment
-Sample1     Leaf      Control
-Sample2     Leaf      Treated
+SampleID    Tissue    Compound content
+Sample1     Leaf      25.1
+Sample2     Leaf      18.5
 Gene Annotation Format (gene_annotation.txt)
 text
 GeneID      GeneSymbol    Description
